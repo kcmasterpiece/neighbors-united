@@ -1,0 +1,27 @@
+---
+layout: default
+title: Neighbors United
+description: Neighbors United is a neighborhood group working to raise awareness, share concerns, and organize community action.
+---
+
+<main>
+  <section id="home" class="hero section">
+    {% capture home_md %}{% include_relative content/home.md %}{% endcapture %}
+    {{ home_md | markdownify }}
+  </section>
+
+  <section id="concerns" class="section">
+    {% capture concerns_md %}{% include_relative content/concerns.md %}{% endcapture %}
+    {{ concerns_md | markdownify }}
+  </section>
+
+  <section id="involved" class="section">
+    {% capture involved_md %}{% include_relative content/involved.md %}{% endcapture %}
+    {{ involved_md | markdownify }}
+  </section>
+
+  <section id="contact" class="section contact">
+    {% capture contact_md %}{% include_relative content/contact.md %}{% endcapture %}
+    {{ contact_md | markdownify }}
+  </section>
+</main>
