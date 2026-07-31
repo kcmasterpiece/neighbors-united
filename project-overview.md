@@ -1,0 +1,45 @@
+---
+layout: default
+title: Project Overview
+description: Overview of the proposed Sutter Health regional hospital project in Emeryville.
+permalink: /project-overview/
+---
+
+<section class="panel">
+  <p class="kicker">Project Overview</p>
+  <h1>Sutter Health Regional Hospital in Emeryville</h1>
+  <h2>Location</h2>
+  <p>
+    Sutter is proposing a new hospital complex between 53rd Street and Stanford Avenue and Hollis
+    and Horton Streets in Emeryville.
+  </p>
+  <img src="{{ '/content/images/map overview.png' | relative_url }}" alt="Map overview of the proposed Sutter Health hospital complex" />
+</section>
+
+<section class="panel">
+  <h2>Project Plan</h2>
+  <p>
+    The plan calls for construction to begin in 2028, with medical office buildings opening by
+    2029 and the hospital by 2033. The complex consists of:
+  </p>
+  <ul>
+    <li>A 325-bed hospital, emergency department, operating rooms, labor and delivery suites, and NICU.</li>
+    <li>785,000 square feet, 330 feet tall, and 17 stories including a helipad.</li>
+    <li>3 or 4 medical office buildings: 2 repurposed from former biotech buildings and 1 or 2 new buildings.</li>
+    <li>A new building for either employee housing or another medical office building.</li>
+    <li>An existing 2,000-space parking garage on Horton Street.</li>
+  </ul>
+  <img src="{{ '/content/images/site circulation.png' | relative_url }}" alt="Site circulation plan for the proposed hospital complex" />
+</section>
+
+<section class="panel">
+  <h2>Site Circulation and Parking</h2>
+  <p>Sutter Health's project plan projects:</p>
+  <ul>
+    <li>20,000 projected vehicle trips per day, with 1,500-1,800 per hour at peak hours, up from 100-150 currently.</li>
+    <li>11 employee and patient shuttles running every 5-15 minutes.</li>
+    <li>20-30% of employees are expected to commute via transit or shuttle from off-site parking; all physicians will park on-site.</li>
+    <li>1,992 on-site parking spaces in the existing garage.</li>
+    <li>Existing raised bike lanes on 53rd Street and Horton Street will have curb cuts and significant car traffic crossing them.</li>
+  </ul>
+</section>

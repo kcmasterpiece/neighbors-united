@@ -1,6 +1,5 @@
 const navToggle = document.getElementById("nav-toggle");
 const siteNav = document.getElementById("site-nav");
-const navLinks = Array.from(document.querySelectorAll(".site-nav a"));
 const yearEl = document.getElementById("year");
 
 if (yearEl) {
@@ -13,31 +12,10 @@ if (navToggle && siteNav) {
     navToggle.setAttribute("aria-expanded", String(isOpen));
   });
 
-  navLinks.forEach((link) => {
+  Array.from(document.querySelectorAll(".site-nav a")).forEach((link) => {
     link.addEventListener("click", () => {
       siteNav.classList.remove("open");
       navToggle.setAttribute("aria-expanded", "false");
     });
   });
 }
-
-const observer = new IntersectionObserver(
-  (entries) => {
-    entries.forEach((entry) => {
-      if (!entry.isIntersecting) {
-        return;
-      }
-
-      const activeId = entry.target.id;
-      navLinks.forEach((link) => {
-        const isActive = link.getAttribute("href") === `#${activeId}`;
-        link.classList.toggle("active", isActive);
-      });
-    });
-  },
-  {
-    threshold: 0.35,
-  },
-);
-
-document.querySelectorAll("main section[id]").forEach((section) => observer.observe(section));

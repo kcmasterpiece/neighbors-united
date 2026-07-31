@@ -1,27 +1,19 @@
 ---
 layout: default
-title: Neighbors United
-description: Neighbors United is a neighborhood group working to raise awareness, share concerns, and organize community action.
+title: Home
+description: Neighbors United is a volunteer-led coalition working to protect neighborhood livability and inform community action.
 ---
 
-<main>
-  <section id="home" class="hero section">
-    {% capture home_md %}{% include_relative content/home.md %}{% endcapture %}
-    {{ home_md | markdownify }}
-  </section>
-
-  <section id="concerns" class="section">
-    {% capture concerns_md %}{% include_relative content/concerns.md %}{% endcapture %}
-    {{ concerns_md | markdownify }}
-  </section>
-
-  <section id="involved" class="section">
-    {% capture involved_md %}{% include_relative content/involved.md %}{% endcapture %}
-    {{ involved_md | markdownify }}
-  </section>
-
-  <section id="contact" class="section contact">
-    {% capture contact_md %}{% include_relative content/contact.md %}{% endcapture %}
-    {{ contact_md | markdownify }}
-  </section>
-</main>
+<section class="hero panel">
+  <p class="kicker">Neighbors United</p>
+  <h1>Sutter Health Regional Hospital in Emeryville</h1>
+  <p class="lead">
+    This proposed $1 billion project is getting fast-tracked without adequately addressing its
+    extreme and permanent impacts on neighborhood livability and the City's financial health.
+  </p>
+  <div class="hero-actions">
+    <a class="btn btn-primary" href="{{ '/project-overview/' | relative_url }}">View Project Overview</a>
+    <a class="btn btn-secondary" href="{{ '/get-involved/' | relative_url }}">Take Action</a>
+  </div>
+  <img src="{{ '/content/images/Rendering looking toward SF with reduced helipad and copter.png' | relative_url }}" alt="Rendering of the proposed hospital looking toward San Francisco with a reduced helipad" />
+</section>

@@ -1,5 +1,16 @@
 title: Neighbors United
 description: Neighborhood group website to raise awareness, share concerns, and organize community action.
+url: https://kcmasterpiece.github.io
+baseurl: /neighbors-united
 markdown: kramdown
 kramdown:
   input: GFM
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- "*.odt"
+- "*.rtf"
