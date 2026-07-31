@@ -1,6 +1,6 @@
 # Neighbors United Website
 
-Jekyll site published at <https://eastbayneightborsunited.com/>.
+Jekyll site published at <https://eastbayneighborsunited.com/>.
 
 ## Pages
 
