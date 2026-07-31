@@ -34,3 +34,33 @@ permalink: /key-impacts/
     <li>Introducing 12,000 additional people per day to the neighborhood will strain emergency services.</li>
   </ul>
 </section>
+
+<section class="panel">
+  <h2>Financial Losses</h2>
+
+  <p><strong>Big benefits for Sutter Health</strong></p>
+  <p>
+    Sutter Health's nonprofit status means it is exempt from local property and business taxes on the
+    Emeryville 12-acre campus, except the one-time $11 million property transfer tax from land purchases
+    to develop the Emeryville complex.
+  </p>
+  <p>
+    In 2025, the
+    <a href="https://www.sutterhealth.org/about-us/financials" target="_blank" rel="noopener">Sutter Health system</a>
+    collected about <strong>$19.8 billion</strong> from services and insurance premiums, while spending roughly
+    <strong>$19.3 billion</strong> on operating costs. The <strong>$509 million</strong> surplus (rather than "profit")
+    is legally required to go back into the system to upgrade technology, build new clinics, and expand
+    patient care access.
+  </p>
+
+  <p><strong>Bigger costs to Emeryville, Oakland, and the County</strong></p>
+  <p>No property and business tax revenue means no additional income to cover:</p>
+  <ul>
+    <li><strong>School funding</strong> to support EUSD facility maintenance, operations, and bond repayment.</li>
+    <li><strong>Increased demand for police and fire services</strong> associated with the new campus.</li>
+    <li><strong>Increased infrastructure and capital improvements</strong> for more wear and tear on roads from 20,000 more vehicle trips per day, storm drains, bridges, and other critical public assets.</li>
+    <li><strong>Increased use of residential street parking</strong> by hospital visitors and patients due to limited free parking on campus.</li>
+    <li><strong>Increased traffic and congestion</strong> resulting from an estimated 20,000 additional vehicle trips per day.</li>
+    <li><strong>Essential county services</strong>, including jails, sheriff's services, courts, elections, property tax collection, and parks.</li>
+  </ul>
+</section>
