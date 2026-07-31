@@ -1,6 +1,6 @@
 # Neighbors United Website
 
-Jekyll site published at <https://kcmasterpiece.github.io/neighbors-united/>.
+Jekyll site published at <https://easybayneighborsunited.com/>.
 
 ## Pages
 
