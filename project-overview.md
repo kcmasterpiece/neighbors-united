@@ -1,26 +1,22 @@
 ---
 layout: default
-title: Project Overview
-description: Overview of the proposed Sutter Health regional hospital project in Emeryville.
+title: Sutter's Plan
+description: Overview of Sutter Health's proposed medical campus in Emeryville.
 permalink: /project-overview/
 ---
 
 <section class="panel">
-  <p class="kicker">Project Overview</p>
-  <h1>Sutter Health Regional Hospital in Emeryville</h1>
-  <h2>Location</h2>
-  <p>
-    Sutter is proposing a new hospital complex between 53rd Street and Stanford Avenue and Hollis
-    and Horton Streets in Emeryville.
-  </p>
-  <img src="{{ '/content/images/map overview.png' | relative_url }}" alt="Map overview of the proposed Sutter Health hospital complex" />
-</section>
-
-<section class="panel">
+  <p class="kicker">Sutter's Plan</p>
+  <h1>Sutter Health's Medical Campus Proposal</h1>
   <h2>Project Plan</h2>
   <p>
-    The plan calls for construction to begin in 2028, with medical office buildings opening by
-    2029 and the hospital by 2033. The complex consists of:
+    Sutter is proposing a new hospital complex between 53rd Street and Stanford Avenue and Hollis
+    and Horton Streets in Emeryville. The plan calls for construction to begin in 2028, with
+    medical office buildings opening by 2029 and the hospital by 2033. The complex consists of:
+  </p>
+  <p>
+    Want to learn more?
+    <a href="https://www.emeryville.org/Development/Projects-Permitting/Major-Development-Projects/Sutter-Hospital-Medical-Center?lang_update=639184238901821173" target="_blank" rel="noopener">See the City of Emeryville's Sutter proposal page.</a>
   </p>
   <ul>
     <li>A 325-bed hospital, emergency department, operating rooms, labor and delivery suites, and NICU.</li>

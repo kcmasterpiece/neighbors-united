@@ -6,7 +6,7 @@ Jekyll site published at <https://eastbayneighborsunited.com/>.
 
 - Home: `index.html`
 - About: `about.md`
-- Project Overview: `project-overview.md`
+- Sutter's Plan: `project-overview.md`
 - Project Consequences: `project-consequences.md`
 - Get Involved: `get-involved.md`
 - Resources: `resources.md`
