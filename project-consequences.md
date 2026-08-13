@@ -79,15 +79,16 @@ permalink: /project-consequences/
     <section class="consequence-topic">
       <h3>Parking and Shuttles</h3>
       <p>
-        The proposal relies on the existing garage’s roughly 2,000 spaces, transit use, and frequent
-        employee shuttles to handle demand from a 325-bed regional hospital and associated medical
-        offices. Sutter plans to bring employees from Alta Bates and other off-site parking locations
-        to a shuttle depot at 53rd and Hollis, replacing Hollis Green and introducing additional
-        shuttle movements across the bicycle network. Because garage parking would be paid while
-        many nearby streets remain unrestricted, price as well as capacity could push parking demand
-        into the neighborhood. If the project’s parking and commute assumptions fall short, the unmet
-        demand would not disappear; it would add traffic and parking pressure to surrounding streets,
-        including 53rd Street and Peladeau Street.
+        The proposal relies on the existing garage, transit use, and frequent employee shuttles to
+        handle demand from a 325-bed regional hospital and associated medical offices. The current
+        garage does not meet the forecasted parking demand for patients and employees, so Sutter plans
+        to bring employees from Alta Bates and other off-site parking locations to a shuttle depot at
+        53rd and Hollis, replacing Hollis Green and introducing additional shuttle movements across
+        the bicycle network. Because garage parking would be paid while many nearby streets remain
+        unrestricted, price as well as capacity could push parking demand into the neighborhood.
+        If the project’s parking and commute assumptions fall short, the unmet demand would not
+        disappear; it would add traffic and parking pressure to surrounding streets, including
+        53rd Street and Peladeau Street.
       </p>
     </section>
 
@@ -144,12 +145,6 @@ permalink: /project-consequences/
     <p>
       The City must demonstrate how it can meet these new needs for staffing, equipment, and
       response capacity to serve the campus without reducing services elsewhere in Emeryville.
-    </p>
-    <p>
-      Property tax also supports public institutions beyond Emeryville’s General Fund. Sutter’s
-      exemption means the new campus would not make the recurring property-tax contribution that a
-      taxable development could provide to Alameda County services, Emery Unified School District,
-      Peralta Community College District, and BART operations.
     </p>
     <p class="closing-statement">
       An $11 million payment today does not answer who will pay the project’s bills in the years that follow.

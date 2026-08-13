@@ -23,7 +23,7 @@ permalink: /project-overview/
     <li>785,000 square feet, 330 feet tall, and 17 stories including a helipad.</li>
     <li>3 or 4 medical office buildings: 2 repurposed from former biotech buildings and 1 or 2 new buildings.</li>
     <li>A new building for either employee housing or another medical office building.</li>
-    <li>An existing 2,000-space parking garage on Horton Street.</li>
+    <li>An existing parking garage on Horton Street.</li>
   </ul>
   <img src="{{ '/content/images/site circulation.png' | relative_url }}" alt="Site circulation plan for the proposed hospital complex" />
 </section>
@@ -32,10 +32,10 @@ permalink: /project-overview/
   <h2>Site Circulation and Parking</h2>
   <p>Sutter Health's project plan projects:</p>
   <ul>
-    <li>20,000 projected vehicle trips per day, with 1,500-1,800 per hour at peak hours, up from 100-150 currently.</li>
+    <li>20,000 projected vehicle trips per day, with 1,500-1,800 per hour at peak hours.</li>
     <li>11 employee and patient shuttles running every 5-15 minutes.</li>
-    <li>20-30% of employees are expected to commute via transit or shuttle from off-site parking; all physicians will park on-site.</li>
-    <li>1,992 on-site parking spaces in the existing garage.</li>
+    <li>20-30% of employees are expected to commute via transit or shuttle from off-site parking at Alta Bates and other sites; all physicians will park on-site.</li>
+    <li>Less than 2,000 on-site parking spaces in the existing garage.</li>
     <li>Existing raised bike lanes on 53rd Street and Horton Street will have curb cuts and significant car traffic crossing them.</li>
   </ul>
 </section>
