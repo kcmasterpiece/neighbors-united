@@ -134,7 +134,7 @@ permalink: /project-consequences/
 
   <section class="consequence-topic">
     <h3>The Math</h3>
-    <p>The City of Emeryville must demonstrate how it intends to cover the project’s escalating annual demands on local resources and infrastructure, including:</p>
+    <p>This project will place escalating demands on local resources and infrastructure, including:</p>
     <ul>
       <li>Road repairs and maintenance made more costly by an estimated 20,000 additional vehicle trips per day.</li>
       <li>Utility infrastructure needed to support a regional hospital complex.</li>
@@ -142,9 +142,8 @@ permalink: /project-consequences/
       <li>Deferred capital improvements, including street paving, storm-drain maintenance, bridge repairs, and other critical infrastructure.</li>
     </ul>
     <p>
-      A regional hospital and Level I trauma center would place new demands on police, fire, and
-      emergency response systems. The City must account for the staffing, equipment, and response
-      capacity needed to serve the campus without reducing service elsewhere in Emeryville.
+      The City must demonstrate how it can meet these new needs for staffing, equipment, and
+      response capacity to serve the campus without reducing services elsewhere in Emeryville.
     </p>
     <p>
       Property tax also supports public institutions beyond Emeryville’s General Fund. Sutter’s
