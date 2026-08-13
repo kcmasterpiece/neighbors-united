@@ -161,6 +161,77 @@ p {
   font-size: clamp(1rem, 2.3vw, 1.15rem);
 }
 
+.hero-subtitle {
+  margin: -0.25rem 0 0.9rem;
+  color: var(--accent-2);
+  font-size: clamp(1.1rem, 2.5vw, 1.35rem);
+  font-weight: 800;
+}
+
+.hero-summary {
+  max-width: 82ch;
+}
+
+.section-intro {
+  color: var(--muted);
+  font-size: 1.08rem;
+}
+
+.consequence-topics {
+  display: grid;
+  gap: 0;
+}
+
+.consequence-topic {
+  padding: 1.3rem 0;
+  border-top: 1px solid var(--line);
+}
+
+.consequence-topic:first-child {
+  margin-top: 1.3rem;
+}
+
+.consequence-topic h3 {
+  color: var(--accent-3);
+  font-size: 1.25rem;
+}
+
+.content-placeholder {
+  margin: 1.4rem 0;
+}
+
+.placeholder-content {
+  min-height: 220px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45rem;
+  padding: 2rem;
+  color: var(--muted);
+  text-align: center;
+  background: #f3f8f6;
+  border: 2px dashed var(--line);
+  border-radius: 0.8rem;
+}
+
+.placeholder-content strong {
+  color: var(--accent-3);
+  font-size: 1.05rem;
+}
+
+.content-placeholder figcaption {
+  margin-top: 0.55rem;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.closing-statement {
+  color: var(--accent-3);
+  font-size: 1.1rem;
+  font-weight: 800;
+}
+
 .hero img,
 .panel img {
   margin-top: 0.95rem;
