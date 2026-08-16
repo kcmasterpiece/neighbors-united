@@ -25,7 +25,14 @@ permalink: /project-overview/
     <li>A new building for either employee housing or another medical office building.</li>
     <li>An existing parking garage on Horton Street.</li>
   </ul>
-  <img src="{{ '/content/images/site circulation.png' | relative_url }}" alt="Site circulation plan for the proposed hospital complex" />
+  <figure class="media-figure">
+    <img src="{{ '/content/images/site circulation.png' | relative_url }}" alt="Site circulation plan for the proposed hospital complex" />
+    <figcaption>
+      This image does not include the movement of the shuttle stop to Hollis Green described in
+      <a href="https://www.emeryville.org/files/assets/city/v/2/development/documents/projects/sutter-cc-study-session-applicant-presentation-07-21-2026.pdf" target="_blank" rel="noopener">Sutter's presentation</a>
+      to the City Council on July 21, 2026.
+    </figcaption>
+  </figure>
 </section>
 
 <section class="panel">
