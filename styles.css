@@ -377,7 +377,7 @@ li {
 }
 
 .document-list a {
-  font-weight: 800;
+  font-weight: 400;
   color: var(--accent-3);
   text-decoration: none;
 }

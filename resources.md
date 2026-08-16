@@ -11,24 +11,6 @@ permalink: /resources/
   <p>Use these source materials to review project details and share factual information.</p>
 
   <section class="resource-section">
-    <h2>Sutter Health &amp; City of Emeryville</h2>
-    <ul class="document-list">
-      <li>
-        <a href="https://www.emeryville.org/files/assets/city/v/2/development/documents/projects/sutter-cc-study-session-applicant-presentation-07-21-2026.pdf" target="_blank" rel="noopener">Sutter Health Presentation: Emeryville City Council Study Session (July 21, 2026) (PDF)</a>
-      </li>
-      <li>
-        <a href="https://www.youtube.com/watch?v=3_9V0CJpEoo&amp;t=3313s" target="_blank" rel="noopener">Emeryville City Council Study Session (July 21, 2026) (video)</a>
-      </li>
-      <li>
-        <a href="https://drive.google.com/file/d/1vAvSNfy6Kq-dPWOJIJnuNQAfu09Fnx-D/view" target="_blank" rel="noopener">City of Emeryville: Sutter Health Project Plan (June 25, 2026) (PDF)</a>
-      </li>
-      <li>
-        <a href="https://www.emeryville.org/files/assets/city/v/4/development/documents/projects/nop-for-emeryville-sutter-hospital-project-08-13-2026.pdf" target="_blank" rel="noopener">City of Emeryville Notice of Preparation (August 13, 2026) (PDF)</a>
-      </li>
-    </ul>
-  </section>
-
-  <section class="resource-section">
     <h2>Emeryville Neighbors United</h2>
     <ul class="document-list">
       <li>
@@ -48,6 +30,24 @@ permalink: /resources/
       </li>
       <li>
         <a href="{{ '/content/media/Sutter Overview Podcast.mp3' | relative_url }}" target="_blank" rel="noopener">Sutter Overview Podcast (audio)</a>
+      </li>
+    </ul>
+  </section>
+
+  <section class="resource-section">
+    <h2>Sutter Health &amp; City of Emeryville</h2>
+    <ul class="document-list">
+      <li>
+        <a href="https://www.emeryville.org/files/assets/city/v/2/development/documents/projects/sutter-cc-study-session-applicant-presentation-07-21-2026.pdf" target="_blank" rel="noopener">Sutter Health Presentation: Emeryville City Council Study Session (July 21, 2026) (PDF)</a>
+      </li>
+      <li>
+        <a href="https://www.youtube.com/watch?v=3_9V0CJpEoo&amp;t=3313s" target="_blank" rel="noopener">Emeryville City Council Study Session (July 21, 2026) (video)</a>
+      </li>
+      <li>
+        <a href="https://drive.google.com/file/d/1vAvSNfy6Kq-dPWOJIJnuNQAfu09Fnx-D/view" target="_blank" rel="noopener">City of Emeryville: Sutter Health Project Plan (June 25, 2026) (PDF)</a>
+      </li>
+      <li>
+        <a href="https://www.emeryville.org/files/assets/city/v/4/development/documents/projects/nop-for-emeryville-sutter-hospital-project-08-13-2026.pdf" target="_blank" rel="noopener">City of Emeryville Notice of Preparation (August 13, 2026) (PDF)</a>
       </li>
     </ul>
   </section>

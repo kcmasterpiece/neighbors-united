@@ -24,6 +24,7 @@ permalink: /project-consequences/
     ambulances, deliveries, shuttles, and helicopters would depend on narrow two-lane streets that
     also serve as bicycle boulevards, pedestrian routes, and school and daycare access.
   </p>
+  <p>The consequences of this mismatch become clear when looking at a map of the surrounding area.</p>
 
   <figure class="content-placeholder" aria-labelledby="street-map-caption">
     <img src="{{ '/content/images/bike and two lane roads around site.png' | relative_url }}" alt="Map around the proposed hospital site showing bike boulevards, two-lane roads, and the hospital site boundary" />
@@ -116,14 +117,6 @@ permalink: /project-consequences/
     current proposal would add ongoing demands on City infrastructure and services without providing
     an ongoing property or business tax contribution to help pay for them.
   </p>
-
-  <figure class="content-placeholder" aria-labelledby="finance-chart-caption">
-    <div class="placeholder-content">
-      <strong>Emeryville financial history chart forthcoming</strong>
-      <span>The final chart will identify the measure, years, units, and primary City data source.</span>
-    </div>
-    <figcaption id="finance-chart-caption">Emeryville budget history and projected deficit. Data and source to be added.</figcaption>
-  </figure>
 
   <section class="consequence-topic">
     <h3>Why?</h3>
