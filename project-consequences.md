@@ -80,11 +80,12 @@ permalink: /project-consequences/
       <h3>Parking and Shuttles</h3>
       <p>
         The proposal relies on the existing garage, transit use, and frequent employee shuttles to
-        handle demand from a 325-bed regional hospital and associated medical offices. The current
-        garage does not meet the forecasted parking demand for patients and employees, so Sutter plans
-        to bring employees from Alta Bates and other off-site parking locations to a shuttle depot at
-        53rd and Hollis, replacing Hollis Green and introducing additional shuttle movements across
-        the bicycle network. Because garage parking would be paid while many nearby streets remain
+        handle demand from a 325-bed regional hospital and associated medical offices. But Sutter’s
+        own materials show the campus would be short approximately 585 on-site parking spaces at
+        full buildout, making spillover pressure on nearby streets part of the current proposal rather
+        than a remote possibility. Sutter plans to bring employees from Alta Bates and other off-site
+        parking locations to a shuttle depot near 53rd and Hollis, adding shuttle activity across the
+        bicycle network. Because garage parking would be paid while many nearby streets remain
         unrestricted, price as well as capacity could push parking demand into the neighborhood.
         If the project’s parking and commute assumptions fall short, the unmet demand would not
         disappear; it would add traffic and parking pressure to surrounding streets, including
@@ -96,9 +97,10 @@ permalink: /project-consequences/
       <h3>Noise</h3>
       <p>
         A rooftop helipad serving a proposed Level I trauma center would place helicopter arrivals
-        and departures close to homes along 53rd and Horton Streets and near Bay Street. Emergency
-        flights could occur at any hour, adding intense intermittent noise to a corridor already
-        affected by train traffic.
+        and departures close to homes along 53rd and Horton Streets and near Bay Street. The project
+        description estimates approximately one helicopter round trip per day, including nighttime
+        hours. That would bring daily helicopter flights into a corridor already affected by train
+        noise, adding intense intermittent noise close to nearby residents.
       </p>
     </section>
   </div>
