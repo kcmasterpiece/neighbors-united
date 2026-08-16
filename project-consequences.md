@@ -26,11 +26,12 @@ permalink: /project-consequences/
   </p>
 
   <figure class="content-placeholder" aria-labelledby="street-map-caption">
-    <div class="placeholder-content">
-      <strong>Street and bicycle network map forthcoming</strong>
-      <span>The final map will identify surrounding two-lane streets, bicycle boulevards, and traffic-calmed routes.</span>
-    </div>
-    <figcaption id="street-map-caption">Map of the transportation network surrounding 5300 Chiron Way. Source and legend to be added.</figcaption>
+    <img src="{{ '/content/images/bike and two lane roads around site.png' | relative_url }}" alt="Map around the proposed hospital site showing bike boulevards, two-lane roads, and the hospital site boundary" />
+    <figcaption id="street-map-caption">
+      Green lines show existing bike boulevards, yellow lines show existing two-lane roads, and the
+      purple box represents the proposed hospital site. View the
+      <a href="https://www.google.com/maps/d/viewer?mid=1sYHRossNfnTiknL7EpRKi1biPcp08BY&amp;ll=37.832521946795005%2C-122.28511251401673&amp;z=16" target="_blank" rel="noopener">interactive map</a>.
+    </figcaption>
   </figure>
 
   <div class="consequence-topics">
