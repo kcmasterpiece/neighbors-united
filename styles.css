@@ -265,6 +265,24 @@ p {
   background: #f8fbff;
 }
 
+.act-now-callout {
+  margin-top: 1.2rem;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--line);
+  border-left: 0.35rem solid var(--accent);
+  border-radius: 0.9rem;
+  background: #f4f8ff;
+}
+
+.act-now-callout h2 {
+  margin: 0 0 0.45rem;
+  font-size: clamp(1.15rem, 2.7vw, 1.5rem);
+}
+
+.act-now-callout p {
+  margin: 0;
+}
+
 .nop-callout h2 {
   margin: 0 0 0.65rem;
   font-size: clamp(1.25rem, 3vw, 1.7rem);
