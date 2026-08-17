@@ -39,7 +39,7 @@ permalink: /project-consequences/
       <h3>Height</h3>
       <p>
         At 330 feet, the proposed hospital would rise 105 feet above the site’s current 225-foot
-        limit and become one of Emeryville’s tallest buildings. Its 785,000 square feet, proposed
+        limit and become Emeryville’s tallest building. Its 785,000 square feet, proposed
         Level I trauma center, and rooftop helipad reflect a regional destination expected to draw
         patients and activity from well beyond Emeryville. That regional role magnifies every
         consequence of placing the building in a neighborhood-scale setting.
