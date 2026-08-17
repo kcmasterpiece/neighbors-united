@@ -45,6 +45,6 @@ permalink: /project-overview/
     <li>20-30% of employees are expected to commute via transit or shuttle from off-site parking at Alta Bates and other sites; all physicians will park on-site.</li>
     <li>Less than 2,000 on-site parking spaces in the existing garage.</li>
     <li>Existing raised bike lanes on 53rd Street and Horton Street will have curb cuts and significant car traffic crossing them.</li>
-    <li>Removal of the existing traffic divertor on Horton Street between 53rd Street and Stanford Avenue to enable traffic to flow down to the existing parking garage</li>
+    <li>Removal of the existing traffic diverter on Horton Street between 53rd Street and Stanford Avenue to enable traffic to flow down to the existing parking garage</li>
   </ul>
 </section>

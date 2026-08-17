@@ -22,12 +22,11 @@ permalink: /project-consequences/
     Sutter’s current proposal is too tall, too large, and too traffic-intensive for the streets and
     neighborhoods surrounding 5300 Chiron Way. A regional hospital drawing patients, employees,
     ambulances, deliveries, shuttles, and helicopters would depend on narrow two-lane streets that
-    also serve as bicycle boulevards, pedestrian routes, and school and daycare access.
+    also serve as bicycle boulevards, pedestrian routes, and school and daycare access. The consequences of this mismatch become clear when looking at a map of the surrounding area.
   </p>
-  <p>The consequences of this mismatch become clear when looking at a map of the surrounding area.</p>
 
   <figure class="content-placeholder" aria-labelledby="street-map-caption">
-    <img src="{{ '/content/images/bike and two lane roads around site.png' | relative_url }}" alt="Map around the proposed hospital site showing bike boulevards, two-lane roads, and the hospital site boundary" />
+    <iframe class="interactive-map" src="https://www.google.com/maps/d/embed?mid=1sYHRossNfnTiknL7EpRKi1biPcp08BY&amp;ehbc=2E312F" width="640" height="480" title="Map of bike boulevards, two-lane roads, and the proposed hospital site"></iframe>
     <figcaption id="street-map-caption">
       Green lines show existing bike boulevards, yellow lines show existing two-lane roads, and the
       purple box represents the proposed hospital site. View the
