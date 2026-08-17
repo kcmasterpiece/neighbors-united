@@ -14,10 +14,6 @@ permalink: /project-overview/
     and Horton Streets in Emeryville. The plan calls for construction to begin in 2028, with
     medical office buildings opening by 2029 and the hospital by 2033. The complex consists of:
   </p>
-  <p>
-    Want to learn more?
-    <a href="https://www.emeryville.org/Development/Projects-Permitting/Major-Development-Projects/Sutter-Hospital-Medical-Center?lang_update=639184238901821173" target="_blank" rel="noopener">See the City of Emeryville's Sutter proposal page.</a>
-  </p>
   <ul>
     <li>A 325-bed hospital, emergency department, operating rooms, labor and delivery suites, and NICU.</li>
     <li>785,000 square feet, 330 feet tall, and 17 stories including a helipad.</li>
@@ -25,6 +21,11 @@ permalink: /project-overview/
     <li>A new building for either employee housing or another medical office building.</li>
     <li>An existing parking garage on Horton Street.</li>
   </ul>
+
+  <p>
+    Want to learn more?
+    <a href="https://www.emeryville.org/Development/Projects-Permitting/Major-Development-Projects/Sutter-Hospital-Medical-Center?lang_update=639184238901821173" target="_blank" rel="noopener">See the City of Emeryville's Sutter proposal page.</a>
+  </p>
   <figure class="media-figure">
     <img src="{{ '/content/images/site circulation.png' | relative_url }}" alt="Site circulation plan for the proposed hospital complex" />
     <figcaption>
@@ -44,5 +45,6 @@ permalink: /project-overview/
     <li>20-30% of employees are expected to commute via transit or shuttle from off-site parking at Alta Bates and other sites; all physicians will park on-site.</li>
     <li>Less than 2,000 on-site parking spaces in the existing garage.</li>
     <li>Existing raised bike lanes on 53rd Street and Horton Street will have curb cuts and significant car traffic crossing them.</li>
+    <li>Removal of the existing traffic divertor on Horton Street between 53rd Street and Stanford Avenue to enable traffic to flow down to the existing parking garage</li>
   </ul>
 </section>
