@@ -26,7 +26,7 @@ permalink: /project-consequences/
   </p>
 
   <figure class="content-placeholder" aria-labelledby="street-map-caption">
-    <iframe class="interactive-map" src="https://www.google.com/maps/d/embed?mid=1sYHRossNfnTiknL7EpRKi1biPcp08BY&amp;ehbc=2E312F" width="640" height="480" title="Map of bike boulevards, two-lane roads, and the proposed hospital site"></iframe>
+    <iframe class="interactive-map" src="https://www.google.com/maps/d/embed?mid=1sYHRossNfnTiknL7EpRKi1biPcp08BY&amp;ehbc=2E312F" width="800" height="480" title="Map of bike boulevards, two-lane roads, and the proposed hospital site"></iframe>
     <figcaption id="street-map-caption">
       Green lines show existing bike boulevards, yellow lines show existing two-lane roads, and the
       purple box represents the proposed hospital site. View the
