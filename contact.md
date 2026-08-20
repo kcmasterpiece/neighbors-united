@@ -12,5 +12,4 @@ permalink: /contact/
     Use the sign-up form to send your interest and receive updates from Neighbors United.
   </p>
   <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSc8D_XzAtgKkWJM4e2uxz53jsq8ObLXmMIdS-j5JYf1kih5xg/viewform">Open Sign-Up Form</a>
-  <p class="contact-note">Public email contact is coming soon.</p>
 </section>
