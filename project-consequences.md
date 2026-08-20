@@ -22,7 +22,10 @@ permalink: /project-consequences/
     Sutter’s current proposal is too tall, too large, and too traffic-intensive for the streets and
     neighborhoods surrounding 5300 Chiron Way. A regional hospital drawing patients, employees,
     ambulances, deliveries, shuttles, and helicopters would depend on narrow two-lane streets that
-    also serve as bicycle boulevards, pedestrian routes, and school and daycare access. The map makes the mismatch clear: it is difficult to see how 20,000 daily vehicle trips could reach this site without fundamentally changing how pedestrians, cyclists, and residents move through the surrounding streets.
+    also serve as bicycle boulevards, pedestrian routes, and school and daycare access. The map
+    makes the mismatch clear. Adding 20,000 daily vehicle trips to this street network would
+    fundamentally change the experience of walking, biking, and commuting through the surrounding
+    neighborhood.
   </p>
 
   <figure class="content-placeholder" aria-labelledby="street-map-caption">
@@ -39,10 +42,12 @@ permalink: /project-consequences/
       <h3>Height</h3>
       <p>
         At 330 feet, the proposed hospital would rise 105 feet above the site’s current 225-foot
-        limit and become Emeryville’s tallest building. Its 785,000 square feet, proposed
-        Level I trauma center, and rooftop helipad reflect a regional destination expected to draw
-        patients and activity from well beyond Emeryville. That regional role magnifies every
-        consequence of placing the building in a neighborhood-scale setting.
+        limit and become Emeryville’s tallest building, taller than Pacific Park Plaza. At 785,000
+        square feet, the campus would be comparable in scale to Kaiser Oakland’s campus, but on
+        about half the footprint. Its proposed Level I trauma center and rooftop helipad reflect a
+        regional destination expected to draw patients and activity from well beyond Emeryville.
+        That regional role magnifies every consequence of placing the building in a
+        neighborhood-scale setting.
       </p>
     </section>
 
@@ -101,7 +106,29 @@ permalink: /project-consequences/
         and departures close to homes along 53rd and Horton Streets and near Bay Street. The project
         description estimates approximately one helicopter round trip per day, including nighttime
         hours. That would bring daily helicopter flights into a corridor already affected by train
-        noise, adding intense intermittent noise close to nearby residents.
+        noise, adding intense intermittent noise close to nearby residents. Ambulance sirens and
+        other emergency-vehicle activity would add to the noise experienced on surrounding streets.
+      </p>
+    </section>
+
+    <section class="consequence-topic">
+      <h3>Construction</h3>
+      <p>
+        Construction is planned to begin in 2028, with medical office buildings opening by 2029
+        and the hospital by 2033. The six-year buildout would bring sustained construction noise,
+        dust, traffic disruption, and construction activity to the surrounding area. Construction
+        of a 17-story hospital could involve pile driving and other ground-shaking work, heavy
+        equipment, backup alarms, construction vehicles, and a daily workforce projected at 700 to
+        1,000 people.
+      </p>
+      <p>
+        The EIR must evaluate how construction noise, vibration, diesel particulate matter, dust,
+        and traffic would affect nearby child care facilities within a quarter mile and schools
+        within a half mile of the site. It should specifically address risks to children, seniors,
+        people with asthma or other lung disease, nearby residents, people traveling through the
+        area, and their pets. To put the construction timeline and impacts into perspective, a
+        sixth grader at Anna Yates when construction begins could spend their entire remaining
+        school career, through high school graduation, exposed to its effects.
       </p>
     </section>
   </div>

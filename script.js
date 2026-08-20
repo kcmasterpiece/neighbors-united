@@ -19,3 +19,22 @@ if (navToggle && siteNav) {
     });
   });
 }
+
+Array.from(document.querySelectorAll(".copy-email")).forEach((button) => {
+  button.addEventListener("click", async () => {
+    const emailAddress = button.dataset.copyText;
+
+    if (!emailAddress || !navigator.clipboard) {
+      return;
+    }
+
+    await navigator.clipboard.writeText(emailAddress);
+    button.textContent = "Copied";
+    button.setAttribute("aria-label", "Email address copied");
+
+    window.setTimeout(() => {
+      button.innerHTML = "&#128203;";
+      button.setAttribute("aria-label", `Copy ${emailAddress}`);
+    }, 1600);
+  });
+});
